@@ -1,2 +1,3 @@
 # pygameproject
-Generic boilerplate code for a simple Pygame project
+
+This is a prototype Texas Hold'em game I made following NotASoftwareEngineer's tutorial in PyGame.
